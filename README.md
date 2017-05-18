@@ -1,2 +1,4 @@
 # hello-world
-This how to help learn the ropes
+This is to help learn the ropes
+
+Hopefully it propels my career someday....
